@@ -1,0 +1,99 @@
+{
+    // =============================
+    // APPEARANCE & THEME
+    // =============================
+
+    "color_scheme": "Packages/Macchiato.sublime-color-scheme",
+    "light_color_scheme": "Packages/Latte.sublime-color-scheme",
+    "dark_color_scheme": "Packages/Macchiato.sublime-color-scheme",
+    "theme": "Adaptive.sublime-theme",
+    "font_face": "Fira Code",
+    "font_size": 11.5,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+    "font_options": ["liga"],
+    "minimap_visible": false,
+    "draw_minimap_border": true,
+    "highlight_line": false,
+    "draw_white_space": "selection",
+    "caret_style": "smooth",
+
+    // =============================
+    // EDITOR BEHAVIOR
+    // =============================
+
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "detect_indentation": true,
+    "word_wrap": false,
+    "auto_match_enabled": true,
+    "match_brackets": true,
+    "match_brackets_angle": true,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "scroll_past_end": false,
+    "scroll_speed": 1.0,
+    "show_tab_close_buttons": true,
+    "show_tabs": true,
+
+    // =============================
+    // FILES & FOLDERS
+    // =============================
+
+    "ensure_newline_at_eof_on_save": true,
+    "trim_trailing_white_space_on_save": true,
+    "hot_exit": true,
+    "fallback_encoding": "UTF-8",
+    "default_encoding": "UTF-8",
+    "save_on_focus_lost": true,
+    "sidebar_exclude_patterns": [
+        ".DS_Store",
+        "Thumbs.db",
+        "node_modules",
+        ".git",
+        ".idea",
+        "__pycache__",
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lock.json",
+        "*.log",
+        "*.tmp"
+    ],
+    "folder_exclude_patterns": [
+        "node_modules",
+        ".git",
+        ".hg",
+        "dist",
+        "build",
+        "public"
+    ],
+    "binary_file_patterns": [
+        "*.exe",
+        "*.dll",
+        "*.pyc",
+        "*.pyo",
+        "*.o",
+        "*.obj",
+        "*.a",
+        "*.log",
+        "*.tmp"
+    ],
+
+    // =============================
+    // MISC
+    // =============================
+
+    "show_encoding": true,
+    "show_line_endings": true,
+    "ignored_packages":
+    [
+		"Vintage"
+    ],
+    "index_files": true
+}

@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlight",
+		"Emmet",
+		"FileDiffs",
+		"FileIcons",
+		"GitGutter",
+		"Gitignore",
+		"GitStatusBar",
+		"ImagePreview",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Status Bar File Size",
+		"Statusbar Path",
+		"Terminal",
+	],
+}

@@ -1,0 +1,6 @@
+{
+    "estimate_file_size": true,
+    "deflate": false,
+    "units": "metric",
+    "typing_delay": 200,
+}
